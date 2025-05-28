@@ -1,3 +1,9 @@
+**2.2.0 (2025-05-28) - Update**
+* Added support for Maya 2026.
+
+**2.2.0 (2024-06-04) - Update**
+* Added support for Maya 2025.
+
 **2.2.0 (2023-06-12) - Update**
 * Added support for Maya 2024.
 
